@@ -1,0 +1,4 @@
+cadeau <- function(prenom) {
+  paste("Hey", prenom, "t'es trop chuad mais vazy t nul yalllllllllah")
+}
+cadeau("Silouane")
