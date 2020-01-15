@@ -2,3 +2,13 @@ cadeau <- function(prenom) {
   paste("Hey", prenom, "t'es trop chuad mais vazy t nul yalllllllllah")
 }
 cadeau("Silouane")
+
+somme <- function(nombre1,nombre2) {
+  nombre <- nombre1 + nombre2
+  paste(nombre)
+}
+somme(10,40)
+
+
+
+
